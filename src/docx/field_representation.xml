@@ -131,5 +131,11 @@
    </tbody>
   </tgroup>
  </table>
-</section>
 
+ <para>
+  For constructed data elements, subfield formats indicate the permitted character set,
+  while the on-the-wire encoding and byte count follow the parent data element format.
+  For example, numeric subfields within an <emphasis>AN</emphasis> or <emphasis>B</emphasis>
+  constructed element are encoded as ASCII digits (0-9) unless explicitly stated as BCD.
+ </para>
+</section>

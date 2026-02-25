@@ -22,6 +22,18 @@
    </thead>
    <tbody>
      <row>
+      <entry>Feb, 2026</entry>
+      <entry>1.0.20.rc19</entry>
+      <entry>Alejandro Revilla</entry>
+      <entry>
+        <itemizedlist>
+            <listitem>
+                <para>Clarified encoding of numeric subfields within constructed data elements (see <xref linkend="field_representation" />).</para>
+            </listitem>
+        </itemizedlist>
+      </entry>
+     </row>
+     <row>
       <entry>Oct, 2025</entry>
       <entry>1.0.20.rc18</entry>
       <entry>Federico González</entry>
